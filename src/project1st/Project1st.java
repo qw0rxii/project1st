@@ -16,6 +16,17 @@ public class Project1st {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-    }
-    
+    int x=5;
+    int y=9;
+    int sum = x+y;
+    int mult = x*y;
+    int raznost = x-y;
+    int div = y/x;  
+    System.out.println("x=5 y=9");
+    System.out.println("sum="+sum);
+    System.out.println("mult="+mult);
+        System.out.println("raznost="+raznost);
+        System.out.println("div="+div);
+            }
+   
 }
